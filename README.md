@@ -1,6 +1,6 @@
 # 🖥️ Sistema de Helpdesk & Suporte de TI
 
-> 🔗 **Acesse o sistema online:** [Clique aqui para testar a aplicação no Streamlit Cloud](https://SEU_LINK_DO_STREAMLIT_CLOUD.streamlit.app)
+> 🔗 **Acesse o sistema online:** [Clique aqui para testar a aplicação no Streamlit Cloud](https://appdesk-ti-kqj6kdyd8neeve6ev9ynhf.streamlit.app/)
 
 Aplicação web interativa desenvolvida em Python para gestão de incidentes de TI, automação de alertas urgentes e acompanhamento de métricas de suporte em tempo real.
 
